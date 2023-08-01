@@ -21,3 +21,16 @@ Monedas válidas:
 - Won sul-coreano a Soles
 
 ![captura](https://github.com/MariaGonzalesBaldera/ConversorDeMoneda/assets/113257195/5771f8da-6c9d-4f19-80d8-03af2fa36aa4)
+
+Utilize una API gratuita donde me envia la respuesta de la monera actual del pais seleccionado, por lo tanto debo enviarle 
+tres valores : <em> Moneda actual ingreaado </em>, <em> Moneda a convertir </em> y <em> Valor a convertir </em>.
+
+<h3>:heavy_check_mark:Herramientas utilizadas</h3><br>
+
+- Java 17
+- Window builder
+- RapidApi (https://rapidapi.com/hub)
+
+<h3>:woman:Autora</h3><br>
+<a href="https://github.com/mariagonzalesbaldera">Maria Gonzales Baldera</a>
+
